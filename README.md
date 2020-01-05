@@ -3,7 +3,11 @@ Historic luas data fetched by the luas-archiving-service at https://luas-archivi
 
 ## Directory structure
 -data
+
 --historic
+
 ---YYYY-MM-DD-HH
+
     files: luas-TIMESTAMP.json
+    
 
