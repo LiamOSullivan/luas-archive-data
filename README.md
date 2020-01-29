@@ -10,6 +10,6 @@ Historic luas data fetched by the luas-archiving-service at https://luas-archivi
 
     files: luas-TIMESTAMP.json
     
-That is, a directory is created for every hour of the day and readings taken every minute are each saved to a file, named with a timestamp. An additional 'flat' directory saves the json data in non-hierarchical format.
+That is, a directory is created for every hour of the day and readings taken every minute are each saved to a file, named with a timestamp.
     
 
