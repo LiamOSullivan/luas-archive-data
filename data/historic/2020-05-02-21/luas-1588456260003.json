@@ -1,0 +1,2032 @@
+[
+  {
+    "stopID": "1",
+    "stopQueryDate": "2020-05-02T21:51:00.778Z",
+    "count": 3,
+    "results": [
+      {
+        "Direction": "Inbound",
+        "Destination": "Blackhorse",
+        "Time": "00:04:25",
+        "AVLS": "00:05:05",
+        "Tram": "3013",
+        "Action": "d",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:55",
+        "XML ID": "22816",
+        "Total Lag": "0.6106118",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.0937514"
+      },
+      {
+        "Direction": "Inbound",
+        "Destination": "Blackhorse",
+        "Time": "00:16:25",
+        "AVLS": "00:17:05",
+        "Tram": "4009",
+        "Action": "d",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:55",
+        "XML ID": "22816",
+        "Total Lag": "0.8137461",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.2968857"
+      },
+      {
+        "Direction": "Terminating",
+        "Destination": "Tallaght",
+        "Time": "00:06:16",
+        "AVLS": "00:06:56",
+        "Tram": "4009",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:55",
+        "XML ID": "22816",
+        "Total Lag": "0.8137461",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.2968857"
+      }
+    ]
+  },
+  {
+    "stopID": "2",
+    "stopQueryDate": "2020-05-02T21:51:00.799Z",
+    "count": 4,
+    "results": [
+      {
+        "Direction": "Inbound",
+        "Destination": "Blackhorse",
+        "Time": "00:05:39",
+        "AVLS": "00:06:19",
+        "Tram": "3013",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:55",
+        "XML ID": "22816",
+        "Total Lag": "0.6106118",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.0937514"
+      },
+      {
+        "Direction": "Inbound",
+        "Destination": "Blackhorse",
+        "Time": "00:17:39",
+        "AVLS": "00:18:19",
+        "Tram": "4009",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:55",
+        "XML ID": "22816",
+        "Total Lag": "0.8293692",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.3125088"
+      },
+      {
+        "Direction": "Outbound",
+        "Destination": "Tallaght",
+        "Time": "00:04:10",
+        "AVLS": "00:04:50",
+        "Tram": "4009",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:55",
+        "XML ID": "22816",
+        "Total Lag": "0.7981181",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.2812577"
+      },
+      {
+        "Direction": "Outbound",
+        "Destination": "Tallaght",
+        "Time": "00:18:19",
+        "AVLS": "00:18:59",
+        "Tram": "4002",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:55",
+        "XML ID": "22816",
+        "Total Lag": "0.7199868",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.2031264"
+      }
+    ]
+  },
+  {
+    "stopID": "3",
+    "stopQueryDate": "2020-05-02T21:51:00.812Z",
+    "count": 4,
+    "results": [
+      {
+        "Direction": "Inbound",
+        "Destination": "Blackhorse",
+        "Time": "00:07:20",
+        "AVLS": "00:08:00",
+        "Tram": "3013",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:55",
+        "XML ID": "22816",
+        "Total Lag": "0.6262382",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.1093778"
+      },
+      {
+        "Direction": "Inbound",
+        "Destination": "Blackhorse",
+        "Time": "00:19:20",
+        "AVLS": "00:20:00",
+        "Tram": "4009",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:55",
+        "XML ID": "22816",
+        "Total Lag": "0.8293692",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.3125088"
+      },
+      {
+        "Direction": "Outbound",
+        "Destination": "Tallaght",
+        "Time": "00:02:35",
+        "AVLS": "00:03:15",
+        "Tram": "4009",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:55",
+        "XML ID": "22816",
+        "Total Lag": "0.7981181",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.2812577"
+      },
+      {
+        "Direction": "Outbound",
+        "Destination": "Tallaght",
+        "Time": "00:16:44",
+        "AVLS": "00:17:24",
+        "Tram": "4002",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:55",
+        "XML ID": "22816",
+        "Total Lag": "0.7199868",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.2031264"
+      }
+    ]
+  },
+  {
+    "stopID": "4",
+    "stopQueryDate": "2020-05-02T21:51:00.829Z",
+    "count": 5,
+    "results": [
+      {
+        "Direction": "Inbound",
+        "Destination": "Blackhorse",
+        "Time": "00:10:25",
+        "AVLS": "00:11:05",
+        "Tram": "3013",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:55",
+        "XML ID": "22816",
+        "Total Lag": "0.6262382",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.1093778"
+      },
+      {
+        "Direction": "Outbound",
+        "Destination": "Tallaght",
+        "Time": "00:00:16",
+        "AVLS": "00:00:56",
+        "Tram": "4009",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:55",
+        "XML ID": "22816",
+        "Total Lag": "0.7981181",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.2812577"
+      },
+      {
+        "Direction": "Outbound",
+        "Destination": "Saggart",
+        "Time": "00:04:55",
+        "AVLS": "00:05:35",
+        "Tram": "4005",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:55",
+        "XML ID": "22816",
+        "Total Lag": "0.7356342",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.2187738"
+      },
+      {
+        "Direction": "Outbound",
+        "Destination": "Tallaght",
+        "Time": "00:14:25",
+        "AVLS": "00:15:05",
+        "Tram": "4002",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:55",
+        "XML ID": "22816",
+        "Total Lag": "0.7199868",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.2031264"
+      },
+      {
+        "Direction": "Outbound",
+        "Destination": "Saggart",
+        "Time": "00:17:55",
+        "AVLS": "00:18:35",
+        "Tram": "4006",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:55",
+        "XML ID": "22816",
+        "Total Lag": "0.7824956",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.2656352"
+      }
+    ]
+  },
+  {
+    "stopID": "10",
+    "stopQueryDate": "2020-05-02T21:51:00.884Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "13",
+    "stopQueryDate": "2020-05-02T21:51:00.890Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "23",
+    "stopQueryDate": "2020-05-02T21:51:00.900Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "15",
+    "stopQueryDate": "2020-05-02T21:51:00.911Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "12",
+    "stopQueryDate": "2020-05-02T21:51:00.919Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "17",
+    "stopQueryDate": "2020-05-02T21:51:00.921Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "11",
+    "stopQueryDate": "2020-05-02T21:51:00.929Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "18",
+    "stopQueryDate": "2020-05-02T21:51:00.939Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "30",
+    "stopQueryDate": "2020-05-02T21:51:00.948Z",
+    "count": 2,
+    "results": [
+      {
+        "Direction": "Inbound",
+        "Destination": "Broombridge",
+        "Time": "00:08:02",
+        "AVLS": "00:08:42",
+        "Tram": "5020",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:58",
+        "Msg Received": "02/05/2020 22:50:58",
+        "Msg Processed": "02/05/2020 22:50:58",
+        "XML ID": "22817",
+        "Total Lag": "0.5796448",
+        "Create Lag": "0.5327666",
+        "Process Lag": "0.0468782"
+      },
+      {
+        "Direction": "Outbound",
+        "Destination": "Sandyford",
+        "Time": "00:03:54",
+        "AVLS": "00:04:34",
+        "Tram": "4014",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:55",
+        "XML ID": "22816",
+        "Total Lag": "0.8449932",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.3281328"
+      }
+    ]
+  },
+  {
+    "stopID": "29",
+    "stopQueryDate": "2020-05-02T21:51:00.959Z",
+    "count": 2,
+    "results": [
+      {
+        "Direction": "Inbound",
+        "Destination": "Broombridge",
+        "Time": "00:09:47",
+        "AVLS": "00:10:27",
+        "Tram": "5020",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:58",
+        "Msg Received": "02/05/2020 22:50:58",
+        "Msg Processed": "02/05/2020 22:50:58",
+        "XML ID": "22817",
+        "Total Lag": "0.5952765",
+        "Create Lag": "0.5327666",
+        "Process Lag": "0.0625099"
+      },
+      {
+        "Direction": "Outbound",
+        "Destination": "Sandyford",
+        "Time": "00:02:08",
+        "AVLS": "00:02:48",
+        "Tram": "4014",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:55",
+        "XML ID": "22816",
+        "Total Lag": "0.8449932",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.3281328"
+      }
+    ]
+  },
+  {
+    "stopID": "14",
+    "stopQueryDate": "2020-05-02T21:51:00.986Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "26",
+    "stopQueryDate": "2020-05-02T21:51:00.989Z",
+    "count": 1,
+    "results": [
+      {
+        "Direction": "Inbound",
+        "Destination": "Broombridge",
+        "Time": "00:14:08",
+        "AVLS": "00:14:48",
+        "Tram": "5020",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:58",
+        "Msg Received": "02/05/2020 22:50:58",
+        "Msg Processed": "02/05/2020 22:50:58",
+        "XML ID": "22817",
+        "Total Lag": "0.610896",
+        "Create Lag": "0.5327666",
+        "Process Lag": "0.0781294"
+      }
+    ]
+  },
+  {
+    "stopID": "21",
+    "stopQueryDate": "2020-05-02T21:51:00.996Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "16",
+    "stopQueryDate": "2020-05-02T21:51:00.998Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "20",
+    "stopQueryDate": "2020-05-02T21:51:01.000Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "35",
+    "stopQueryDate": "2020-05-02T21:51:01.018Z",
+    "count": 4,
+    "results": [
+      {
+        "Direction": "Inbound",
+        "Destination": "Broombridge",
+        "Time": "00:12:49",
+        "AVLS": "00:13:29",
+        "Tram": "5019",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:58",
+        "Msg Received": "02/05/2020 22:50:58",
+        "Msg Processed": "02/05/2020 22:50:58",
+        "XML ID": "22817",
+        "Total Lag": "0.5483944",
+        "Create Lag": "0.5327666",
+        "Process Lag": "0.0156278"
+      },
+      {
+        "Direction": "Outbound",
+        "Destination": "Sandyford",
+        "Time": "00:00:00",
+        "AVLS": "00:00:31",
+        "Tram": "5026",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:58",
+        "Msg Received": "02/05/2020 22:50:58",
+        "Msg Processed": "02/05/2020 22:50:58",
+        "XML ID": "22817",
+        "Total Lag": "0.6421505",
+        "Create Lag": "0.5327666",
+        "Process Lag": "0.1093839"
+      },
+      {
+        "Direction": "Outbound",
+        "Destination": "Bride's Glen",
+        "Time": "00:05:57",
+        "AVLS": "00:06:37",
+        "Tram": "5033",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:58",
+        "Msg Received": "02/05/2020 22:50:58",
+        "Msg Processed": "02/05/2020 22:50:58",
+        "XML ID": "22817",
+        "Total Lag": "0.7358942",
+        "Create Lag": "0.5327666",
+        "Process Lag": "0.2031276"
+      },
+      {
+        "Direction": "Outbound",
+        "Destination": "Sandyford",
+        "Time": "00:12:19",
+        "AVLS": "00:12:59",
+        "Tram": "4014",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:55",
+        "XML ID": "22816",
+        "Total Lag": "0.891862",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.3750016"
+      }
+    ]
+  },
+  {
+    "stopID": "31",
+    "stopQueryDate": "2020-05-02T21:51:01.029Z",
+    "count": 3,
+    "results": [
+      {
+        "Direction": "Inbound",
+        "Destination": "Broombridge",
+        "Time": "00:06:15",
+        "AVLS": "00:06:55",
+        "Tram": "5020",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:58",
+        "Msg Received": "02/05/2020 22:50:58",
+        "Msg Processed": "02/05/2020 22:50:58",
+        "XML ID": "22817",
+        "Total Lag": "0.5796448",
+        "Create Lag": "0.5327666",
+        "Process Lag": "0.0468782"
+      },
+      {
+        "Direction": "Outbound",
+        "Destination": "Bride's Glen",
+        "Time": "00:00:00",
+        "AVLS": "00:00:00",
+        "Tram": "5033",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:58",
+        "Msg Received": "02/05/2020 22:50:58",
+        "Msg Processed": "02/05/2020 22:50:58",
+        "XML ID": "22817",
+        "Total Lag": "0.7046514",
+        "Create Lag": "0.5327666",
+        "Process Lag": "0.1718848"
+      },
+      {
+        "Direction": "Outbound",
+        "Destination": "Sandyford",
+        "Time": "00:05:42",
+        "AVLS": "00:06:22",
+        "Tram": "4014",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:55",
+        "XML ID": "22816",
+        "Total Lag": "0.8606124",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.343752"
+      }
+    ]
+  },
+  {
+    "stopID": "37",
+    "stopQueryDate": "2020-05-02T21:51:01.037Z",
+    "count": 2,
+    "results": [
+      {
+        "Direction": "Inbound",
+        "Destination": "Broombridge",
+        "Time": "00:08:50",
+        "AVLS": "00:09:30",
+        "Tram": "5019",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:58",
+        "Msg Received": "02/05/2020 22:50:58",
+        "Msg Processed": "02/05/2020 22:50:58",
+        "XML ID": "22817",
+        "Total Lag": "0.5483944",
+        "Create Lag": "0.5327666",
+        "Process Lag": "0.0156278"
+      },
+      {
+        "Direction": "Outbound",
+        "Destination": "Bride's Glen",
+        "Time": "00:09:51",
+        "AVLS": "00:10:31",
+        "Tram": "5033",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:58",
+        "Msg Received": "02/05/2020 22:50:58",
+        "Msg Processed": "02/05/2020 22:50:58",
+        "XML ID": "22817",
+        "Total Lag": "0.7358942",
+        "Create Lag": "0.5327666",
+        "Process Lag": "0.2031276"
+      }
+    ]
+  },
+  {
+    "stopID": "5",
+    "stopQueryDate": "2020-05-02T21:51:01.094Z",
+    "count": 3,
+    "results": [
+      {
+        "Direction": "Inbound",
+        "Destination": "Blackhorse",
+        "Time": "00:00:00",
+        "AVLS": "00:00:04",
+        "Tram": "3007",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:55",
+        "XML ID": "22816",
+        "Total Lag": "0.5793683",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.0625079"
+      },
+      {
+        "Direction": "Inbound",
+        "Destination": "Blackhorse",
+        "Time": "00:12:18",
+        "AVLS": "00:12:58",
+        "Tram": "3013",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:55",
+        "XML ID": "22816",
+        "Total Lag": "0.6418674",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.125007"
+      },
+      {
+        "Direction": "Outbound",
+        "Destination": "Tallaght",
+        "Time": "00:12:40",
+        "AVLS": "00:13:20",
+        "Tram": "4002",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:55",
+        "XML ID": "22816",
+        "Total Lag": "0.7043634",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.187503"
+      }
+    ]
+  },
+  {
+    "stopID": "54",
+    "stopQueryDate": "2020-05-02T21:51:01.098Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "49",
+    "stopQueryDate": "2020-05-02T21:51:01.115Z",
+    "count": 3,
+    "results": [
+      {
+        "Direction": "Inbound",
+        "Destination": "Belgard",
+        "Time": "00:04:02",
+        "AVLS": "00:04:42",
+        "Tram": "4006",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:55",
+        "XML ID": "22816",
+        "Total Lag": "0.7824956",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.2656352"
+      },
+      {
+        "Direction": "Inbound",
+        "Destination": "Belgard",
+        "Time": "00:15:31",
+        "AVLS": "00:16:11",
+        "Tram": "3002",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:55",
+        "XML ID": "22816",
+        "Total Lag": "0.5637373",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.0468769"
+      },
+      {
+        "Direction": "Outbound",
+        "Destination": "Saggart",
+        "Time": "00:08:22",
+        "AVLS": "00:09:02",
+        "Tram": "4005",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:55",
+        "XML ID": "22816",
+        "Total Lag": "0.7356342",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.2187738"
+      }
+    ]
+  },
+  {
+    "stopID": "6",
+    "stopQueryDate": "2020-05-02T21:51:01.127Z",
+    "count": 3,
+    "results": [
+      {
+        "Direction": "Inbound",
+        "Destination": "Blackhorse",
+        "Time": "00:02:31",
+        "AVLS": "00:03:11",
+        "Tram": "3007",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:55",
+        "XML ID": "22816",
+        "Total Lag": "0.5793683",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.0625079"
+      },
+      {
+        "Direction": "Inbound",
+        "Destination": "Blackhorse",
+        "Time": "00:15:25",
+        "AVLS": "00:16:05",
+        "Tram": "3013",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:55",
+        "XML ID": "22816",
+        "Total Lag": "0.6418674",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.125007"
+      },
+      {
+        "Direction": "Outbound",
+        "Destination": "Tallaght",
+        "Time": "00:09:25",
+        "AVLS": "00:10:05",
+        "Tram": "4002",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:55",
+        "XML ID": "22816",
+        "Total Lag": "0.7043634",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.187503"
+      }
+    ]
+  },
+  {
+    "stopID": "27",
+    "stopQueryDate": "2020-05-02T21:51:01.130Z",
+    "count": 1,
+    "results": [
+      {
+        "Direction": "Inbound",
+        "Destination": "Broombridge",
+        "Time": "00:12:47",
+        "AVLS": "00:13:27",
+        "Tram": "5020",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:58",
+        "Msg Received": "02/05/2020 22:50:58",
+        "Msg Processed": "02/05/2020 22:50:58",
+        "XML ID": "22817",
+        "Total Lag": "0.5952765",
+        "Create Lag": "0.5327666",
+        "Process Lag": "0.0625099"
+      }
+    ]
+  },
+  {
+    "stopID": "25",
+    "stopQueryDate": "2020-05-02T21:51:01.145Z",
+    "count": 2,
+    "results": [
+      {
+        "Direction": "Inbound",
+        "Destination": "Broombridge",
+        "Time": "00:00:58",
+        "AVLS": "00:01:38",
+        "Tram": "5018",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:56",
+        "XML ID": "22816",
+        "Total Lag": "1.0949869",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.5781265"
+      },
+      {
+        "Direction": "Inbound",
+        "Destination": "Broombridge",
+        "Time": "00:16:18",
+        "AVLS": "00:16:58",
+        "Tram": "5020",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:58",
+        "Msg Received": "02/05/2020 22:50:58",
+        "Msg Processed": "02/05/2020 22:50:58",
+        "XML ID": "22817",
+        "Total Lag": "0.610896",
+        "Create Lag": "0.5327666",
+        "Process Lag": "0.0781294"
+      }
+    ]
+  },
+  {
+    "stopID": "32",
+    "stopQueryDate": "2020-05-02T21:51:01.150Z",
+    "count": 4,
+    "results": [
+      {
+        "Direction": "Inbound",
+        "Destination": "Broombridge",
+        "Time": "00:04:16",
+        "AVLS": "00:04:56",
+        "Tram": "5020",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:58",
+        "Msg Received": "02/05/2020 22:50:58",
+        "Msg Processed": "02/05/2020 22:50:58",
+        "XML ID": "22817",
+        "Total Lag": "0.5796448",
+        "Create Lag": "0.5327666",
+        "Process Lag": "0.0468782"
+      },
+      {
+        "Direction": "Inbound",
+        "Destination": "Broombridge",
+        "Time": "00:18:14",
+        "AVLS": "00:18:54",
+        "Tram": "5019",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:58",
+        "Msg Received": "02/05/2020 22:50:58",
+        "Msg Processed": "02/05/2020 22:50:58",
+        "XML ID": "22817",
+        "Total Lag": "0.5640284",
+        "Create Lag": "0.5327666",
+        "Process Lag": "0.0312618"
+      },
+      {
+        "Direction": "Outbound",
+        "Destination": "Bride's Glen",
+        "Time": "00:01:18",
+        "AVLS": "00:01:58",
+        "Tram": "5033",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:58",
+        "Msg Received": "02/05/2020 22:50:58",
+        "Msg Processed": "02/05/2020 22:50:58",
+        "XML ID": "22817",
+        "Total Lag": "0.7046514",
+        "Create Lag": "0.5327666",
+        "Process Lag": "0.1718848"
+      },
+      {
+        "Direction": "Outbound",
+        "Destination": "Sandyford",
+        "Time": "00:07:40",
+        "AVLS": "00:08:20",
+        "Tram": "4014",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:55",
+        "XML ID": "22816",
+        "Total Lag": "0.8606124",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.343752"
+      }
+    ]
+  },
+  {
+    "stopID": "44",
+    "stopQueryDate": "2020-05-02T21:51:01.159Z",
+    "count": 4,
+    "results": [
+      {
+        "Direction": "Inbound",
+        "Destination": "Broombridge",
+        "Time": "00:00:00",
+        "AVLS": "00:00:00",
+        "Tram": "5019",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:51",
+        "Msg Received": "02/05/2020 22:50:51",
+        "Msg Processed": "02/05/2020 22:50:51",
+        "XML ID": "22814",
+        "Total Lag": "0.1726019",
+        "Create Lag": "0.1726019",
+        "Process Lag": "0"
+      },
+      {
+        "Direction": "Inbound",
+        "Destination": "Broombridge",
+        "Time": "00:14:25",
+        "AVLS": "00:15:05",
+        "Tram": "5008",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:56",
+        "XML ID": "22816",
+        "Total Lag": "1.0168683",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.5000079"
+      },
+      {
+        "Direction": "Outbound",
+        "Destination": "Bride's Glen",
+        "Time": "00:03:37",
+        "AVLS": "00:04:17",
+        "Tram": "5003",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:55",
+        "XML ID": "22816",
+        "Total Lag": "0.9074932",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.3906328"
+      },
+      {
+        "Direction": "Outbound",
+        "Destination": "Bride's Glen",
+        "Time": "00:19:18",
+        "AVLS": "00:19:58",
+        "Tram": "5033",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:58",
+        "Msg Received": "02/05/2020 22:50:58",
+        "Msg Processed": "02/05/2020 22:50:58",
+        "XML ID": "22817",
+        "Total Lag": "0.76715",
+        "Create Lag": "0.5327666",
+        "Process Lag": "0.2343834"
+      }
+    ]
+  },
+  {
+    "stopID": "19",
+    "stopQueryDate": "2020-05-02T21:51:01.166Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "55",
+    "stopQueryDate": "2020-05-02T21:51:01.168Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "57",
+    "stopQueryDate": "2020-05-02T21:51:01.169Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "56",
+    "stopQueryDate": "2020-05-02T21:51:01.175Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "48",
+    "stopQueryDate": "2020-05-02T21:51:01.177Z",
+    "count": 1,
+    "results": [
+      {
+        "Direction": "Inbound",
+        "Destination": "Broombridge",
+        "Time": "00:08:25",
+        "AVLS": "00:09:05",
+        "Tram": "5008",
+        "Action": "d",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:55",
+        "XML ID": "22816",
+        "Total Lag": "0.9856154",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.468755"
+      }
+    ]
+  },
+  {
+    "stopID": "58",
+    "stopQueryDate": "2020-05-02T21:51:01.180Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "8",
+    "stopQueryDate": "2020-05-02T21:51:01.188Z",
+    "count": 3,
+    "results": [
+      {
+        "Direction": "Inbound",
+        "Destination": "Blackhorse",
+        "Time": "00:09:48",
+        "AVLS": "00:10:28",
+        "Tram": "3007",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:55",
+        "XML ID": "22816",
+        "Total Lag": "0.594994",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.0781336"
+      },
+      {
+        "Direction": "Outbound",
+        "Destination": "Tallaght",
+        "Time": "00:02:17",
+        "AVLS": "00:02:57",
+        "Tram": "4002",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:55",
+        "XML ID": "22816",
+        "Total Lag": "0.689554",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.1726936"
+      },
+      {
+        "Direction": "Outbound",
+        "Destination": "Tallaght",
+        "Time": "00:14:17",
+        "AVLS": "00:14:57",
+        "Tram": "3014",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:55",
+        "XML ID": "22816",
+        "Total Lag": "0.6574877",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.1406273"
+      }
+    ]
+  },
+  {
+    "stopID": "33",
+    "stopQueryDate": "2020-05-02T21:51:01.197Z",
+    "count": 4,
+    "results": [
+      {
+        "Direction": "Inbound",
+        "Destination": "Broombridge",
+        "Time": "00:02:34",
+        "AVLS": "00:03:14",
+        "Tram": "5020",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:58",
+        "Msg Received": "02/05/2020 22:50:58",
+        "Msg Processed": "02/05/2020 22:50:58",
+        "XML ID": "22817",
+        "Total Lag": "0.5796448",
+        "Create Lag": "0.5327666",
+        "Process Lag": "0.0468782"
+      },
+      {
+        "Direction": "Inbound",
+        "Destination": "Broombridge",
+        "Time": "00:16:32",
+        "AVLS": "00:17:12",
+        "Tram": "5019",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:58",
+        "Msg Received": "02/05/2020 22:50:58",
+        "Msg Processed": "02/05/2020 22:50:58",
+        "XML ID": "22817",
+        "Total Lag": "0.5640284",
+        "Create Lag": "0.5327666",
+        "Process Lag": "0.0312618"
+      },
+      {
+        "Direction": "Outbound",
+        "Destination": "Bride's Glen",
+        "Time": "00:02:44",
+        "AVLS": "00:03:24",
+        "Tram": "5033",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:58",
+        "Msg Received": "02/05/2020 22:50:58",
+        "Msg Processed": "02/05/2020 22:50:58",
+        "XML ID": "22817",
+        "Total Lag": "0.7202672",
+        "Create Lag": "0.5327666",
+        "Process Lag": "0.1875006"
+      },
+      {
+        "Direction": "Outbound",
+        "Destination": "Sandyford",
+        "Time": "00:09:06",
+        "AVLS": "00:09:46",
+        "Tram": "4014",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:55",
+        "XML ID": "22816",
+        "Total Lag": "0.8762419",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.3593815"
+      }
+    ]
+  },
+  {
+    "stopID": "42",
+    "stopQueryDate": "2020-05-02T21:51:01.206Z",
+    "count": 4,
+    "results": [
+      {
+        "Direction": "Inbound",
+        "Destination": "Broombridge",
+        "Time": "00:01:54",
+        "AVLS": "00:02:34",
+        "Tram": "5019",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:56",
+        "XML ID": "22816",
+        "Total Lag": "1.1418591",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.6249987"
+      },
+      {
+        "Direction": "Inbound",
+        "Destination": "Broombridge",
+        "Time": "00:17:05",
+        "AVLS": "00:17:45",
+        "Tram": "5008",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:56",
+        "XML ID": "22816",
+        "Total Lag": "1.0324943",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.5156339"
+      },
+      {
+        "Direction": "Outbound",
+        "Destination": "Bride's Glen",
+        "Time": "00:00:59",
+        "AVLS": "00:01:39",
+        "Tram": "5003",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:55",
+        "XML ID": "22816",
+        "Total Lag": "0.891862",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.3750016"
+      },
+      {
+        "Direction": "Outbound",
+        "Destination": "Bride's Glen",
+        "Time": "00:16:40",
+        "AVLS": "00:17:20",
+        "Tram": "5033",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:58",
+        "Msg Received": "02/05/2020 22:50:58",
+        "Msg Processed": "02/05/2020 22:50:58",
+        "XML ID": "22817",
+        "Total Lag": "0.76715",
+        "Create Lag": "0.5327666",
+        "Process Lag": "0.2343834"
+      }
+    ]
+  },
+  {
+    "stopID": "34",
+    "stopQueryDate": "2020-05-02T21:51:01.216Z",
+    "count": 4,
+    "results": [
+      {
+        "Direction": "Inbound",
+        "Destination": "Broombridge",
+        "Time": "00:00:51",
+        "AVLS": "00:01:31",
+        "Tram": "5020",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:58",
+        "Msg Received": "02/05/2020 22:50:58",
+        "Msg Processed": "02/05/2020 22:50:58",
+        "XML ID": "22817",
+        "Total Lag": "0.5640284",
+        "Create Lag": "0.5327666",
+        "Process Lag": "0.0312618"
+      },
+      {
+        "Direction": "Inbound",
+        "Destination": "Broombridge",
+        "Time": "00:14:49",
+        "AVLS": "00:15:29",
+        "Tram": "5019",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:58",
+        "Msg Received": "02/05/2020 22:50:58",
+        "Msg Processed": "02/05/2020 22:50:58",
+        "XML ID": "22817",
+        "Total Lag": "0.5640284",
+        "Create Lag": "0.5327666",
+        "Process Lag": "0.0312618"
+      },
+      {
+        "Direction": "Outbound",
+        "Destination": "Bride's Glen",
+        "Time": "00:04:18",
+        "AVLS": "00:04:58",
+        "Tram": "5033",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:58",
+        "Msg Received": "02/05/2020 22:50:58",
+        "Msg Processed": "02/05/2020 22:50:58",
+        "XML ID": "22817",
+        "Total Lag": "0.7358942",
+        "Create Lag": "0.5327666",
+        "Process Lag": "0.2031276"
+      },
+      {
+        "Direction": "Outbound",
+        "Destination": "Sandyford",
+        "Time": "00:10:40",
+        "AVLS": "00:11:20",
+        "Tram": "4014",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:55",
+        "XML ID": "22816",
+        "Total Lag": "0.8762419",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.3593815"
+      }
+    ]
+  },
+  {
+    "stopID": "9",
+    "stopQueryDate": "2020-05-02T21:51:01.224Z",
+    "count": 3,
+    "results": [
+      {
+        "Direction": "Outbound",
+        "Destination": "Tallaght",
+        "Time": "00:00:00",
+        "AVLS": "00:00:05",
+        "Tram": "4002",
+        "Action": "d",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:55",
+        "XML ID": "22816",
+        "Total Lag": "0.673112",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.1562516"
+      },
+      {
+        "Direction": "Outbound",
+        "Destination": "Tallaght",
+        "Time": "00:11:25",
+        "AVLS": "00:12:05",
+        "Tram": "3014",
+        "Action": "d",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:55",
+        "XML ID": "22816",
+        "Total Lag": "0.6574877",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.1406273"
+      },
+      {
+        "Direction": "Terminating",
+        "Destination": "Blackhorse",
+        "Time": "00:12:31",
+        "AVLS": "00:13:11",
+        "Tram": "3007",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:55",
+        "XML ID": "22816",
+        "Total Lag": "0.6106118",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.0937514"
+      }
+    ]
+  },
+  {
+    "stopID": "22",
+    "stopQueryDate": "2020-05-02T21:51:01.226Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "36",
+    "stopQueryDate": "2020-05-02T21:51:01.233Z",
+    "count": 2,
+    "results": [
+      {
+        "Direction": "Inbound",
+        "Destination": "Broombridge",
+        "Time": "00:11:14",
+        "AVLS": "00:11:54",
+        "Tram": "5019",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:58",
+        "Msg Received": "02/05/2020 22:50:58",
+        "Msg Processed": "02/05/2020 22:50:58",
+        "XML ID": "22817",
+        "Total Lag": "0.5483944",
+        "Create Lag": "0.5327666",
+        "Process Lag": "0.0156278"
+      },
+      {
+        "Direction": "Outbound",
+        "Destination": "Bride's Glen",
+        "Time": "00:07:18",
+        "AVLS": "00:07:58",
+        "Tram": "5033",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:58",
+        "Msg Received": "02/05/2020 22:50:58",
+        "Msg Processed": "02/05/2020 22:50:58",
+        "XML ID": "22817",
+        "Total Lag": "0.7358942",
+        "Create Lag": "0.5327666",
+        "Process Lag": "0.2031276"
+      }
+    ]
+  },
+  {
+    "stopID": "28",
+    "stopQueryDate": "2020-05-02T21:51:01.237Z",
+    "count": 2,
+    "results": [
+      {
+        "Direction": "Inbound",
+        "Destination": "Broombridge",
+        "Time": "00:11:16",
+        "AVLS": "00:11:56",
+        "Tram": "5020",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:58",
+        "Msg Received": "02/05/2020 22:50:58",
+        "Msg Processed": "02/05/2020 22:50:58",
+        "XML ID": "22817",
+        "Total Lag": "0.5952765",
+        "Create Lag": "0.5327666",
+        "Process Lag": "0.0625099"
+      },
+      {
+        "Direction": "Outbound",
+        "Destination": "Sandyford",
+        "Time": "00:00:40",
+        "AVLS": "00:01:20",
+        "Tram": "4014",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:55",
+        "XML ID": "22816",
+        "Total Lag": "0.8293692",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.3125088"
+      }
+    ]
+  },
+  {
+    "stopID": "38",
+    "stopQueryDate": "2020-05-02T21:51:01.244Z",
+    "count": 2,
+    "results": [
+      {
+        "Direction": "Inbound",
+        "Destination": "Broombridge",
+        "Time": "00:07:20",
+        "AVLS": "00:08:00",
+        "Tram": "5019",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:58",
+        "Msg Received": "02/05/2020 22:50:58",
+        "Msg Processed": "02/05/2020 22:50:58",
+        "XML ID": "22817",
+        "Total Lag": "0.5327666",
+        "Create Lag": "0.5327666",
+        "Process Lag": "0"
+      },
+      {
+        "Direction": "Outbound",
+        "Destination": "Bride's Glen",
+        "Time": "00:11:19",
+        "AVLS": "00:11:59",
+        "Tram": "5033",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:58",
+        "Msg Received": "02/05/2020 22:50:58",
+        "Msg Processed": "02/05/2020 22:50:58",
+        "XML ID": "22817",
+        "Total Lag": "0.7515792",
+        "Create Lag": "0.5327666",
+        "Process Lag": "0.2188126"
+      }
+    ]
+  },
+  {
+    "stopID": "46",
+    "stopQueryDate": "2020-05-02T21:51:01.251Z",
+    "count": 2,
+    "results": [
+      {
+        "Direction": "Inbound",
+        "Destination": "Broombridge",
+        "Time": "00:11:34",
+        "AVLS": "00:12:14",
+        "Tram": "5008",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:56",
+        "XML ID": "22816",
+        "Total Lag": "1.0012384",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.484378"
+      },
+      {
+        "Direction": "Outbound",
+        "Destination": "Bride's Glen",
+        "Time": "00:06:28",
+        "AVLS": "00:07:08",
+        "Tram": "5003",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:55",
+        "XML ID": "22816",
+        "Total Lag": "0.9231113",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.4062509"
+      }
+    ]
+  },
+  {
+    "stopID": "39",
+    "stopQueryDate": "2020-05-02T21:51:01.254Z",
+    "count": 2,
+    "results": [
+      {
+        "Direction": "Inbound",
+        "Destination": "Broombridge",
+        "Time": "00:05:35",
+        "AVLS": "00:06:15",
+        "Tram": "5019",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:58",
+        "Msg Received": "02/05/2020 22:50:58",
+        "Msg Processed": "02/05/2020 22:50:58",
+        "XML ID": "22817",
+        "Total Lag": "0.5327666",
+        "Create Lag": "0.5327666",
+        "Process Lag": "0"
+      },
+      {
+        "Direction": "Outbound",
+        "Destination": "Bride's Glen",
+        "Time": "00:13:04",
+        "AVLS": "00:13:44",
+        "Tram": "5033",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:58",
+        "Msg Received": "02/05/2020 22:50:58",
+        "Msg Processed": "02/05/2020 22:50:58",
+        "XML ID": "22817",
+        "Total Lag": "0.7515792",
+        "Create Lag": "0.5327666",
+        "Process Lag": "0.2188126"
+      }
+    ]
+  },
+  {
+    "stopID": "47",
+    "stopQueryDate": "2020-05-02T21:51:01.262Z",
+    "count": 2,
+    "results": [
+      {
+        "Direction": "Inbound",
+        "Destination": "Broombridge",
+        "Time": "00:09:33",
+        "AVLS": "00:10:13",
+        "Tram": "5008",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:55",
+        "XML ID": "22816",
+        "Total Lag": "0.9856154",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.468755"
+      },
+      {
+        "Direction": "Outbound",
+        "Destination": "Bride's Glen",
+        "Time": "00:08:25",
+        "AVLS": "00:09:05",
+        "Tram": "5003",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:55",
+        "XML ID": "22816",
+        "Total Lag": "0.9231113",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.4062509"
+      }
+    ]
+  },
+  {
+    "stopID": "24",
+    "stopQueryDate": "2020-05-02T21:51:01.266Z",
+    "count": 3,
+    "results": [
+      {
+        "Direction": "Inbound",
+        "Destination": "Broombridge",
+        "Time": "00:03:56",
+        "AVLS": "00:04:36",
+        "Tram": "5018",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:56",
+        "XML ID": "22816",
+        "Total Lag": "1.110619",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.5937586"
+      },
+      {
+        "Direction": "Inbound",
+        "Destination": "Broombridge",
+        "Time": "00:19:16",
+        "AVLS": "00:19:56",
+        "Tram": "5020",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:58",
+        "Msg Received": "02/05/2020 22:50:58",
+        "Msg Processed": "02/05/2020 22:50:58",
+        "XML ID": "22817",
+        "Total Lag": "0.610896",
+        "Create Lag": "0.5327666",
+        "Process Lag": "0.0781294"
+      },
+      {
+        "Direction": "Outbound",
+        "Destination": "Bride's Glen",
+        "Time": "00:18:01",
+        "AVLS": "00:18:41",
+        "Tram": "5004",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:55",
+        "XML ID": "22816",
+        "Total Lag": "0.9856154",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.468755"
+      }
+    ]
+  },
+  {
+    "stopID": "45",
+    "stopQueryDate": "2020-05-02T21:51:01.273Z",
+    "count": 2,
+    "results": [
+      {
+        "Direction": "Inbound",
+        "Destination": "Broombridge",
+        "Time": "00:12:56",
+        "AVLS": "00:13:36",
+        "Tram": "5008",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:56",
+        "XML ID": "22816",
+        "Total Lag": "1.0012384",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.484378"
+      },
+      {
+        "Direction": "Outbound",
+        "Destination": "Bride's Glen",
+        "Time": "00:05:05",
+        "AVLS": "00:05:45",
+        "Tram": "5003",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:55",
+        "XML ID": "22816",
+        "Total Lag": "0.9074932",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.3906328"
+      }
+    ]
+  },
+  {
+    "stopID": "7",
+    "stopQueryDate": "2020-05-02T21:51:01.277Z",
+    "count": 3,
+    "results": [
+      {
+        "Direction": "Inbound",
+        "Destination": "Blackhorse",
+        "Time": "00:07:54",
+        "AVLS": "00:08:34",
+        "Tram": "3007",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:55",
+        "XML ID": "22816",
+        "Total Lag": "0.5793683",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.0625079"
+      },
+      {
+        "Direction": "Outbound",
+        "Destination": "Tallaght",
+        "Time": "00:04:16",
+        "AVLS": "00:04:56",
+        "Tram": "4002",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:55",
+        "XML ID": "22816",
+        "Total Lag": "0.689554",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.1726936"
+      },
+      {
+        "Direction": "Outbound",
+        "Destination": "Tallaght",
+        "Time": "00:16:16",
+        "AVLS": "00:16:56",
+        "Tram": "3014",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:55",
+        "XML ID": "22816",
+        "Total Lag": "0.6574877",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.1406273"
+      }
+    ]
+  },
+  {
+    "stopID": "53",
+    "stopQueryDate": "2020-05-02T21:51:01.285Z",
+    "count": 3,
+    "results": [
+      {
+        "Direction": "Inbound",
+        "Destination": "Belgard",
+        "Time": "00:08:25",
+        "AVLS": "00:09:05",
+        "Tram": "3002",
+        "Action": "d",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:55",
+        "XML ID": "22816",
+        "Total Lag": "0.5324881",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.0156277"
+      },
+      {
+        "Direction": "Terminating",
+        "Destination": "Saggart",
+        "Time": "00:03:08",
+        "AVLS": "00:03:48",
+        "Tram": "3002",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:55",
+        "XML ID": "22816",
+        "Total Lag": "0.5324881",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.0156277"
+      },
+      {
+        "Direction": "Terminating",
+        "Destination": "Saggart",
+        "Time": "00:15:25",
+        "AVLS": "00:16:05",
+        "Tram": "4005",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:55",
+        "XML ID": "22816",
+        "Total Lag": "0.7668618",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.2500014"
+      }
+    ]
+  },
+  {
+    "stopID": "43",
+    "stopQueryDate": "2020-05-02T21:51:01.293Z",
+    "count": 4,
+    "results": [
+      {
+        "Direction": "Inbound",
+        "Destination": "Broombridge",
+        "Time": "00:00:18",
+        "AVLS": "00:00:58",
+        "Tram": "5019",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:56",
+        "XML ID": "22816",
+        "Total Lag": "1.1418591",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.6249987"
+      },
+      {
+        "Direction": "Inbound",
+        "Destination": "Broombridge",
+        "Time": "00:15:29",
+        "AVLS": "00:16:09",
+        "Tram": "5008",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:56",
+        "XML ID": "22816",
+        "Total Lag": "1.0168683",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.5000079"
+      },
+      {
+        "Direction": "Outbound",
+        "Destination": "Bride's Glen",
+        "Time": "00:02:32",
+        "AVLS": "00:03:12",
+        "Tram": "5003",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:55",
+        "XML ID": "22816",
+        "Total Lag": "0.9074932",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.3906328"
+      },
+      {
+        "Direction": "Outbound",
+        "Destination": "Bride's Glen",
+        "Time": "00:18:13",
+        "AVLS": "00:18:53",
+        "Tram": "5033",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:58",
+        "Msg Received": "02/05/2020 22:50:58",
+        "Msg Processed": "02/05/2020 22:50:58",
+        "XML ID": "22817",
+        "Total Lag": "0.76715",
+        "Create Lag": "0.5327666",
+        "Process Lag": "0.2343834"
+      }
+    ]
+  },
+  {
+    "stopID": "51",
+    "stopQueryDate": "2020-05-02T21:51:01.302Z",
+    "count": 4,
+    "results": [
+      {
+        "Direction": "Inbound",
+        "Destination": "Belgard",
+        "Time": "00:00:27",
+        "AVLS": "00:01:07",
+        "Tram": "4006",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:55",
+        "XML ID": "22816",
+        "Total Lag": "0.7668618",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.2500014"
+      },
+      {
+        "Direction": "Inbound",
+        "Destination": "Belgard",
+        "Time": "00:11:56",
+        "AVLS": "00:12:36",
+        "Tram": "3002",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:55",
+        "XML ID": "22816",
+        "Total Lag": "0.5481297",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.0312693"
+      },
+      {
+        "Direction": "Outbound",
+        "Destination": "Saggart",
+        "Time": "00:00:00",
+        "AVLS": "00:00:18",
+        "Tram": "3002",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:55",
+        "XML ID": "22816",
+        "Total Lag": "0.5168604",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0"
+      },
+      {
+        "Direction": "Outbound",
+        "Destination": "Saggart",
+        "Time": "00:11:55",
+        "AVLS": "00:12:35",
+        "Tram": "4005",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:55",
+        "XML ID": "22816",
+        "Total Lag": "0.7512364",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.234376"
+      }
+    ]
+  },
+  {
+    "stopID": "52",
+    "stopQueryDate": "2020-05-02T21:51:01.312Z",
+    "count": 4,
+    "results": [
+      {
+        "Direction": "Inbound",
+        "Destination": "Belgard",
+        "Time": "00:00:00",
+        "AVLS": "00:00:00",
+        "Tram": "4006",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:48",
+        "Msg Received": "02/05/2020 22:50:48",
+        "Msg Processed": "02/05/2020 22:50:48",
+        "XML ID": "22813",
+        "Total Lag": "0.7038537",
+        "Create Lag": "0.5319777",
+        "Process Lag": "0.171876"
+      },
+      {
+        "Direction": "Inbound",
+        "Destination": "Belgard",
+        "Time": "00:10:40",
+        "AVLS": "00:11:20",
+        "Tram": "3002",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:55",
+        "XML ID": "22816",
+        "Total Lag": "0.5481297",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.0312693"
+      },
+      {
+        "Direction": "Outbound",
+        "Destination": "Saggart",
+        "Time": "00:00:55",
+        "AVLS": "00:01:35",
+        "Tram": "3002",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:55",
+        "XML ID": "22816",
+        "Total Lag": "0.5168604",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0"
+      },
+      {
+        "Direction": "Outbound",
+        "Destination": "Saggart",
+        "Time": "00:13:12",
+        "AVLS": "00:13:52",
+        "Tram": "4005",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:55",
+        "XML ID": "22816",
+        "Total Lag": "0.7512364",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.234376"
+      }
+    ]
+  },
+  {
+    "stopID": "40",
+    "stopQueryDate": "2020-05-02T21:51:01.316Z",
+    "count": 3,
+    "results": [
+      {
+        "Direction": "Inbound",
+        "Destination": "Broombridge",
+        "Time": "00:04:05",
+        "AVLS": "00:04:45",
+        "Tram": "5019",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:56",
+        "XML ID": "22816",
+        "Total Lag": "1.1585057",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.6416453"
+      },
+      {
+        "Direction": "Inbound",
+        "Destination": "Broombridge",
+        "Time": "00:19:16",
+        "AVLS": "00:19:56",
+        "Tram": "5008",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:56",
+        "XML ID": "22816",
+        "Total Lag": "1.0324943",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.5156339"
+      },
+      {
+        "Direction": "Outbound",
+        "Destination": "Bride's Glen",
+        "Time": "00:14:32",
+        "AVLS": "00:15:12",
+        "Tram": "5033",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:58",
+        "Msg Received": "02/05/2020 22:50:58",
+        "Msg Processed": "02/05/2020 22:50:58",
+        "XML ID": "22817",
+        "Total Lag": "0.7515792",
+        "Create Lag": "0.5327666",
+        "Process Lag": "0.2188126"
+      }
+    ]
+  },
+  {
+    "stopID": "50",
+    "stopQueryDate": "2020-05-02T21:51:01.323Z",
+    "count": 3,
+    "results": [
+      {
+        "Direction": "Inbound",
+        "Destination": "Belgard",
+        "Time": "00:02:14",
+        "AVLS": "00:02:54",
+        "Tram": "4006",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:55",
+        "XML ID": "22816",
+        "Total Lag": "0.7668618",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.2500014"
+      },
+      {
+        "Direction": "Inbound",
+        "Destination": "Belgard",
+        "Time": "00:13:43",
+        "AVLS": "00:14:23",
+        "Tram": "3002",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:55",
+        "XML ID": "22816",
+        "Total Lag": "0.5637373",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.0468769"
+      },
+      {
+        "Direction": "Outbound",
+        "Destination": "Saggart",
+        "Time": "00:10:08",
+        "AVLS": "00:10:48",
+        "Tram": "4005",
+        "Action": "a",
+        "Msg Sent": "02/05/2020 22:50:55",
+        "Msg Received": "02/05/2020 22:50:55",
+        "Msg Processed": "02/05/2020 22:50:55",
+        "XML ID": "22816",
+        "Total Lag": "0.7356342",
+        "Create Lag": "0.5168604",
+        "Process Lag": "0.2187738"
+      }
+    ]
+  }
+]
