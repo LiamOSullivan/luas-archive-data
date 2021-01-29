@@ -1,0 +1,619 @@
+[
+  {
+    "stopID": "10",
+    "stopQueryDate": "2020-12-25T10:05:00.396Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "11",
+    "stopQueryDate": "2020-12-25T10:05:00.418Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "6",
+    "stopQueryDate": "2020-12-25T10:05:00.429Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "5",
+    "stopQueryDate": "2020-12-25T10:05:00.454Z",
+    "count": 3,
+    "results": [
+      {
+        "Direction": "Outbound",
+        "Destination": "Tallaght",
+        "Time": "00:05:20",
+        "AVLS": "00:06:00",
+        "Tram": "3007",
+        "Action": "d",
+        "Msg Sent": "25/12/2020 10:04:56",
+        "Msg Received": "25/12/2020 10:04:56",
+        "Msg Processed": "25/12/2020 10:04:56",
+        "XML ID": "1343",
+        "Total Lag": "0.7326585",
+        "Create Lag": "0.7170336",
+        "Process Lag": "0.0156249"
+      },
+      {
+        "Direction": "Outbound",
+        "Destination": "Tallaght",
+        "Time": "00:05:20",
+        "AVLS": "00:06:00",
+        "Tram": "4001",
+        "Action": "d",
+        "Msg Sent": "25/12/2020 10:04:56",
+        "Msg Received": "25/12/2020 10:04:56",
+        "Msg Processed": "25/12/2020 10:04:56",
+        "XML ID": "1343",
+        "Total Lag": "0.7795332",
+        "Create Lag": "0.7170336",
+        "Process Lag": "0.0624996"
+      },
+      {
+        "Direction": "Outbound",
+        "Destination": "Tallaght",
+        "Time": "00:05:20",
+        "AVLS": "00:06:00",
+        "Tram": "3011",
+        "Action": "d",
+        "Msg Sent": "25/12/2020 10:04:56",
+        "Msg Received": "25/12/2020 10:04:56",
+        "Msg Processed": "25/12/2020 10:04:56",
+        "XML ID": "1343",
+        "Total Lag": "0.7482858",
+        "Create Lag": "0.7170336",
+        "Process Lag": "0.0312522"
+      }
+    ]
+  },
+  {
+    "stopID": "2",
+    "stopQueryDate": "2020-12-25T10:05:00.466Z",
+    "count": 3,
+    "results": [
+      {
+        "Direction": "Outbound",
+        "Destination": "Tallaght",
+        "Time": "00:10:39",
+        "AVLS": "00:11:19",
+        "Tram": "3007",
+        "Action": "a",
+        "Msg Sent": "25/12/2020 10:04:56",
+        "Msg Received": "25/12/2020 10:04:56",
+        "Msg Processed": "25/12/2020 10:04:56",
+        "XML ID": "1343",
+        "Total Lag": "0.7482858",
+        "Create Lag": "0.7170336",
+        "Process Lag": "0.0312522"
+      },
+      {
+        "Direction": "Outbound",
+        "Destination": "Tallaght",
+        "Time": "00:10:39",
+        "AVLS": "00:11:19",
+        "Tram": "3011",
+        "Action": "a",
+        "Msg Sent": "25/12/2020 10:04:56",
+        "Msg Received": "25/12/2020 10:04:56",
+        "Msg Processed": "25/12/2020 10:04:56",
+        "XML ID": "1343",
+        "Total Lag": "0.7639135",
+        "Create Lag": "0.7170336",
+        "Process Lag": "0.0468799"
+      },
+      {
+        "Direction": "Outbound",
+        "Destination": "Tallaght",
+        "Time": "00:10:39",
+        "AVLS": "00:11:19",
+        "Tram": "4001",
+        "Action": "a",
+        "Msg Sent": "25/12/2020 10:04:56",
+        "Msg Received": "25/12/2020 10:04:56",
+        "Msg Processed": "25/12/2020 10:04:56",
+        "XML ID": "1343",
+        "Total Lag": "0.7951595",
+        "Create Lag": "0.7170336",
+        "Process Lag": "0.0781259"
+      }
+    ]
+  },
+  {
+    "stopID": "4",
+    "stopQueryDate": "2020-12-25T10:05:00.475Z",
+    "count": 3,
+    "results": [
+      {
+        "Direction": "Outbound",
+        "Destination": "Tallaght",
+        "Time": "00:07:31",
+        "AVLS": "00:08:11",
+        "Tram": "3007",
+        "Action": "a",
+        "Msg Sent": "25/12/2020 10:04:56",
+        "Msg Received": "25/12/2020 10:04:56",
+        "Msg Processed": "25/12/2020 10:04:56",
+        "XML ID": "1343",
+        "Total Lag": "0.7326585",
+        "Create Lag": "0.7170336",
+        "Process Lag": "0.0156249"
+      },
+      {
+        "Direction": "Outbound",
+        "Destination": "Tallaght",
+        "Time": "00:07:31",
+        "AVLS": "00:08:11",
+        "Tram": "3011",
+        "Action": "a",
+        "Msg Sent": "25/12/2020 10:04:56",
+        "Msg Received": "25/12/2020 10:04:56",
+        "Msg Processed": "25/12/2020 10:04:56",
+        "XML ID": "1343",
+        "Total Lag": "0.7482858",
+        "Create Lag": "0.7170336",
+        "Process Lag": "0.0312522"
+      },
+      {
+        "Direction": "Outbound",
+        "Destination": "Tallaght",
+        "Time": "00:07:31",
+        "AVLS": "00:08:11",
+        "Tram": "4001",
+        "Action": "a",
+        "Msg Sent": "25/12/2020 10:04:56",
+        "Msg Received": "25/12/2020 10:04:56",
+        "Msg Processed": "25/12/2020 10:04:56",
+        "XML ID": "1343",
+        "Total Lag": "0.7795332",
+        "Create Lag": "0.7170336",
+        "Process Lag": "0.0624996"
+      }
+    ]
+  },
+  {
+    "stopID": "29",
+    "stopQueryDate": "2020-12-25T10:05:00.488Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "28",
+    "stopQueryDate": "2020-12-25T10:05:00.494Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "15",
+    "stopQueryDate": "2020-12-25T10:05:00.497Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "26",
+    "stopQueryDate": "2020-12-25T10:05:00.503Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "31",
+    "stopQueryDate": "2020-12-25T10:05:00.506Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "30",
+    "stopQueryDate": "2020-12-25T10:05:00.509Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "7",
+    "stopQueryDate": "2020-12-25T10:05:00.515Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "9",
+    "stopQueryDate": "2020-12-25T10:05:00.757Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "22",
+    "stopQueryDate": "2020-12-25T10:05:00.766Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "16",
+    "stopQueryDate": "2020-12-25T10:05:00.774Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "12",
+    "stopQueryDate": "2020-12-25T10:05:00.787Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "8",
+    "stopQueryDate": "2020-12-25T10:05:00.796Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "25",
+    "stopQueryDate": "2020-12-25T10:05:00.804Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "20",
+    "stopQueryDate": "2020-12-25T10:05:00.816Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "19",
+    "stopQueryDate": "2020-12-25T10:05:00.831Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "18",
+    "stopQueryDate": "2020-12-25T10:05:00.834Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "21",
+    "stopQueryDate": "2020-12-25T10:05:00.837Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "33",
+    "stopQueryDate": "2020-12-25T10:05:00.844Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "3",
+    "stopQueryDate": "2020-12-25T10:05:00.857Z",
+    "count": 3,
+    "results": [
+      {
+        "Direction": "Outbound",
+        "Destination": "Tallaght",
+        "Time": "00:09:23",
+        "AVLS": "00:10:03",
+        "Tram": "4001",
+        "Action": "a",
+        "Msg Sent": "25/12/2020 10:04:56",
+        "Msg Received": "25/12/2020 10:04:56",
+        "Msg Processed": "25/12/2020 10:04:56",
+        "XML ID": "1343",
+        "Total Lag": "0.7795332",
+        "Create Lag": "0.7170336",
+        "Process Lag": "0.0624996"
+      },
+      {
+        "Direction": "Outbound",
+        "Destination": "Tallaght",
+        "Time": "00:09:23",
+        "AVLS": "00:10:03",
+        "Tram": "3007",
+        "Action": "a",
+        "Msg Sent": "25/12/2020 10:04:56",
+        "Msg Received": "25/12/2020 10:04:56",
+        "Msg Processed": "25/12/2020 10:04:56",
+        "XML ID": "1343",
+        "Total Lag": "0.7482858",
+        "Create Lag": "0.7170336",
+        "Process Lag": "0.0312522"
+      },
+      {
+        "Direction": "Outbound",
+        "Destination": "Tallaght",
+        "Time": "00:09:23",
+        "AVLS": "00:10:03",
+        "Tram": "3011",
+        "Action": "a",
+        "Msg Sent": "25/12/2020 10:04:56",
+        "Msg Received": "25/12/2020 10:04:56",
+        "Msg Processed": "25/12/2020 10:04:56",
+        "XML ID": "1343",
+        "Total Lag": "0.7639135",
+        "Create Lag": "0.7170336",
+        "Process Lag": "0.0468799"
+      }
+    ]
+  },
+  {
+    "stopID": "1",
+    "stopQueryDate": "2020-12-25T10:05:00.903Z",
+    "count": 6,
+    "results": [
+      {
+        "Direction": "Inbound",
+        "Destination": "The Point",
+        "Time": "00:17:20",
+        "AVLS": "00:18:00",
+        "Tram": "4001",
+        "Action": "d",
+        "Msg Sent": "25/12/2020 10:04:56",
+        "Msg Received": "25/12/2020 10:04:56",
+        "Msg Processed": "25/12/2020 10:04:56",
+        "XML ID": "1343",
+        "Total Lag": "0.7951595",
+        "Create Lag": "0.7170336",
+        "Process Lag": "0.0781259"
+      },
+      {
+        "Direction": "Inbound",
+        "Destination": "The Point",
+        "Time": "00:18:20",
+        "AVLS": "00:19:00",
+        "Tram": "3007",
+        "Action": "d",
+        "Msg Sent": "25/12/2020 10:04:56",
+        "Msg Received": "25/12/2020 10:04:56",
+        "Msg Processed": "25/12/2020 10:04:56",
+        "XML ID": "1343",
+        "Total Lag": "0.7482858",
+        "Create Lag": "0.7170336",
+        "Process Lag": "0.0312522"
+      },
+      {
+        "Direction": "Inbound",
+        "Destination": "The Point",
+        "Time": "00:19:20",
+        "AVLS": "00:20:00",
+        "Tram": "3011",
+        "Action": "d",
+        "Msg Sent": "25/12/2020 10:04:56",
+        "Msg Received": "25/12/2020 10:04:56",
+        "Msg Processed": "25/12/2020 10:04:56",
+        "XML ID": "1343",
+        "Total Lag": "0.7795332",
+        "Create Lag": "0.7170336",
+        "Process Lag": "0.0624996"
+      },
+      {
+        "Direction": "Terminating",
+        "Destination": "Tallaght",
+        "Time": "00:12:20",
+        "AVLS": "00:13:00",
+        "Tram": "3011",
+        "Action": "a",
+        "Msg Sent": "25/12/2020 10:04:56",
+        "Msg Received": "25/12/2020 10:04:56",
+        "Msg Processed": "25/12/2020 10:04:56",
+        "XML ID": "1343",
+        "Total Lag": "0.7795332",
+        "Create Lag": "0.7170336",
+        "Process Lag": "0.0624996"
+      },
+      {
+        "Direction": "Terminating",
+        "Destination": "Tallaght",
+        "Time": "00:12:20",
+        "AVLS": "00:13:00",
+        "Tram": "4001",
+        "Action": "a",
+        "Msg Sent": "25/12/2020 10:04:56",
+        "Msg Received": "25/12/2020 10:04:56",
+        "Msg Processed": "25/12/2020 10:04:56",
+        "XML ID": "1343",
+        "Total Lag": "0.7951595",
+        "Create Lag": "0.7170336",
+        "Process Lag": "0.0781259"
+      },
+      {
+        "Direction": "Terminating",
+        "Destination": "Tallaght",
+        "Time": "00:12:20",
+        "AVLS": "00:13:00",
+        "Tram": "3007",
+        "Action": "a",
+        "Msg Sent": "25/12/2020 10:04:56",
+        "Msg Received": "25/12/2020 10:04:56",
+        "Msg Processed": "25/12/2020 10:04:56",
+        "XML ID": "1343",
+        "Total Lag": "0.7482858",
+        "Create Lag": "0.7170336",
+        "Process Lag": "0.0312522"
+      }
+    ]
+  },
+  {
+    "stopID": "23",
+    "stopQueryDate": "2020-12-25T10:05:01.058Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "27",
+    "stopQueryDate": "2020-12-25T10:05:01.068Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "13",
+    "stopQueryDate": "2020-12-25T10:05:01.086Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "14",
+    "stopQueryDate": "2020-12-25T10:05:01.101Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "17",
+    "stopQueryDate": "2020-12-25T10:05:01.109Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "36",
+    "stopQueryDate": "2020-12-25T10:05:01.126Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "34",
+    "stopQueryDate": "2020-12-25T10:05:01.129Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "24",
+    "stopQueryDate": "2020-12-25T10:05:01.138Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "32",
+    "stopQueryDate": "2020-12-25T10:05:01.141Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "40",
+    "stopQueryDate": "2020-12-25T10:05:01.149Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "38",
+    "stopQueryDate": "2020-12-25T10:05:01.159Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "42",
+    "stopQueryDate": "2020-12-25T10:05:01.163Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "37",
+    "stopQueryDate": "2020-12-25T10:05:01.220Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "35",
+    "stopQueryDate": "2020-12-25T10:05:01.342Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "43",
+    "stopQueryDate": "2020-12-25T10:05:01.345Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "39",
+    "stopQueryDate": "2020-12-25T10:05:01.371Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "47",
+    "stopQueryDate": "2020-12-25T10:05:01.376Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "46",
+    "stopQueryDate": "2020-12-25T10:05:01.392Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "57",
+    "stopQueryDate": "2020-12-25T10:05:01.400Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "50",
+    "stopQueryDate": "2020-12-25T10:05:01.407Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "52",
+    "stopQueryDate": "2020-12-25T10:05:01.424Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "51",
+    "stopQueryDate": "2020-12-25T10:05:01.427Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "53",
+    "stopQueryDate": "2020-12-25T10:05:01.435Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "48",
+    "stopQueryDate": "2020-12-25T10:05:01.436Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "55",
+    "stopQueryDate": "2020-12-25T10:05:01.457Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "54",
+    "stopQueryDate": "2020-12-25T10:05:01.491Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "44",
+    "stopQueryDate": "2020-12-25T10:05:01.565Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "49",
+    "stopQueryDate": "2020-12-25T10:05:01.575Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "58",
+    "stopQueryDate": "2020-12-25T10:05:01.590Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "45",
+    "stopQueryDate": "2020-12-25T10:05:01.599Z",
+    "count": 0,
+    "results": []
+  },
+  {
+    "stopID": "56",
+    "stopQueryDate": "2020-12-25T10:05:01.600Z",
+    "count": 0,
+    "results": []
+  }
+]
